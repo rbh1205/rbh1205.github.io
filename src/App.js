@@ -163,7 +163,7 @@ const sitesData = [
     img: 'https://media-cdn.tripadvisor.com/media/photo-s/24/ef/0f/dc/plates-to-share.jpg',
     title: 'Dulse',
     link: 'https://www.dulse.co.uk/',
-    type: 'Alkohol'
+    type: 'Restaurant'
   },
   {
     img: 'https://cdn.shopify.com/s/files/1/0416/8574/5815/files/Triple_Stacked_2048x2048.png?v=1671648147',
